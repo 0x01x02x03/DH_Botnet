@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/11/15 18:04:05.968.pas,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\DH Botnet\gen.pas</Transaction>
+    <Transaction>2013/11/15 18:04:05.968.dfm,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\DH Botnet\gen.dfm</Transaction>
+    <Transaction>2013/11/15 18:04:12.625.dproj,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\DH Botnet\gennow.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
