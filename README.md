@@ -5,7 +5,7 @@ A simple botnet with the following options:<br>
 
 [+] Command Execution<br>
 [+] Simple GetIP<br>
-[+] List active processes<br><br>
+[+] List active processes<br>
 [+] Kill processes<br>
 [+] List files in a directory<br>
 [+] Remove a file or directory any<br>
