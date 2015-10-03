@@ -1,7 +1,7 @@
 DH Botnet
 =========
 
-Well, always wanted to make a botnet in Perl, schedule a good basic achieve with the following options:<br>
+A simple botnet with the following options:<br>
 
 [+] Command Execution<br>
 [+] Simple GetIP<br>
@@ -19,3 +19,13 @@ Well, always wanted to make a botnet in Perl, schedule a good basic achieve with
 [+] Back loco the mouse causing it to move around the screen<br>
 
 To use this botnet need a hosting that allows PHP and Mysql.<br>
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dhbotnet10.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/u45A96wNP8Y/0.jpg)](http://www.youtube.com/watch?v=u45A96wNP8Y)
+
+Good Bye
