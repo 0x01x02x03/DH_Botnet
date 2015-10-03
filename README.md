@@ -16,7 +16,7 @@ A simple botnet with the following options:<br>
 [+] Send Messages annoying<br>
 [+] Open Word and make it write only<br>
 [+] Make the keyboard type only<br>
-[+] Back loco the mouse causing it to move around the screen<br>
+[+] Back crazy the mouse causing it to move around the screen<br>
 
 To use this botnet need a hosting that allows PHP and Mysql.<br>
 
